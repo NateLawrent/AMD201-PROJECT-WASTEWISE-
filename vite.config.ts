@@ -6,4 +6,3 @@ export default defineConfig({
   plugins: [react()],
   base: '/AMD201-PROJECT-WASTEWISE-/',
 });
-

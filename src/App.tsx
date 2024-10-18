@@ -10,7 +10,7 @@ import ScoreBoard from './pages/ScoreBoard';
 
 function App() {
   return (
-    <Router basename="/AMD201-Waste-Management-App-">
+    <Router basename="/AMD201-PROJECT-WASTEWISE-">
       <div className="min-h-screen bg-green-50 flex flex-col">
         <Navbar />
         <main className="flex-grow container mx-auto px-4 py-8">
